@@ -1,0 +1,173 @@
+.first-main{
+    margin-top: 70px;
+}
+/*------------------ first section (login)------------------ */
+.second-block{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+}
+.login{
+    border: 1px solid rgb(211, 208, 208);
+    width: 330px;
+height: 365px;
+margin-top: 34px;
+justify-content: center;
+align-items: center;
+display: grid;
+;
+}
+.insta-logoname{
+    height: 80px;
+    width: 220px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+/* ---------------------------------------------------------- */
+.bottom-login{
+
+    border: 1px solid rgb(211, 208, 208);
+    width: 330px;
+height: 60px;  
+display: flex;
+position: absolute;
+top: 410px;
+right: 279px;
+
+justify-content: center;
+align-items: center;
+
+
+}
+
+.para-one{
+margin: 0%;
+   display: flex;
+ 
+    font-weight: 100;
+    
+align-items: center;
+justify-content: center;
+
+}
+.download-image{
+    height: 50px;
+    width: 130px;
+}
+.second-bottom{
+    position: absolute;
+    top: 490px;
+    right: 410px;
+    
+    justify-content: center;
+    align-items: center;
+}
+.last-bottom{
+    position: absolute;
+top: 530px;
+right: 314px;
+
+justify-content: center;
+align-items: center;
+}
+.hr1{
+    width:87px;
+    display: inline-block;
+  
+}
+.hr2{
+    width:87px;
+    display: inline-block;
+   
+}
+.flex-para{
+display: inline-block;
+padding: 0px 10px 10px 10px;   
+position:relative;
+bottom: 10px; 
+margin-top: 30px;
+font-size: 12px;
+}
+
+.first-button{
+    margin-top: 10px;
+    width: 220px;
+    background-color: lightblue;
+    border: none;
+    color: white;
+    border-radius: 4px;
+}
+::placeholder {
+    color: grey;
+    font-size:12px;
+  }
+  .input-container{
+      margin-top: 10px;
+  }
+  .input-container-one{
+      margin-top: 20px;
+  }
+  .facebook-logo{
+      width: 20px;
+      height: 20px;
+      display: inline-block;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      
+  }
+  .facebook-para{
+      display: inline-block;
+      color: blue;
+      padding-left: 10px;
+      font-weight: 500;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+
+  }
+  .forget{
+      text-align: center;
+      font-weight: 100;
+      margin-top: 20px;
+  }
+  .si{
+      text-decoration: none;
+  }
+  .input-field{
+      width: 220px;
+  }
+  .bake{
+      width: 40%;
+      margin-top: 50px;
+      
+  }
+  .fotter-list{
+text-align: center;
+    list-style-type:none;
+    margin-top: 90px;
+  }
+  .footerli{
+      padding: 6px;
+      color: gray;
+      font-size: 12px;
+      display: inline-block;
+  }
+
+  .fotter-lists{
+    text-align: center;
+        list-style-type:none;
+     
+  }
+  .dropdown { /*container for custom dropdown arrow*/
+    -webkit-appearance: none;
+    -moz-appearance: window;
+  
+    border: none;
+    background-image: url("https://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png");
+   background-repeat: no-repeat;
+   background-position:  center;
+  }
